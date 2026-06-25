@@ -80,8 +80,8 @@ A responsive news platform built with **React**, **Node.js**, **Express**, and *
 
 ## 💻 Competitive Programming
 
-- ⭐ **CodeChef:** 3★
-- 🏅 **Codeforces:** Pupil
+- ⭐ **CodeChef:** 3 - Star
+- 🏅 **Codeforces:** Specialist
 - 📚 Regularly solving DSA and Competitive Programming problems
 
 ---
@@ -90,11 +90,11 @@ A responsive news platform built with **React**, **Node.js**, **Express**, and *
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=Txxjasss&show_icons=true&theme=github_dark&hide_border=true)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=github-dark&hide_border=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Txxjasss&theme=github-dark&hide_border=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Txxjasss&layout=compact&theme=github_dark&hide_border=true)
 
 </div>
 
@@ -113,15 +113,15 @@ A responsive news platform built with **React**, **Node.js**, **Express**, and *
 
 <p align="left">
 
-<a href="YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/tejas-janagi-b7a111334/?skipRedirect=true">
 <img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
 </a>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/Txxjasss">
 <img src="https://skillicons.dev/icons?i=github" width="45"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:tejasjanagi2006@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" width="45"/>
 </a>
 
